@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Animal Pedia</h1>
 
 <p align="center">
-    <img src="" alt="Busca Animal Logo" width="400px">
+    <img src="m_project/logo.png" alt="Busca Animal Logo" width="400px">
 </p>
 
 [PYTHON__BADGE]: https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white
