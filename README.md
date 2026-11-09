@@ -29,8 +29,8 @@
 <h2 id="layout">🎨 Layout/Preview</h2>
 
 <p align="center">
-    <img src="" alt="Tela inicial do Busca Animal" width="400px">
-    <img src="" alt="Resultado da busca por leão" width="400px">
+    <img src="m_project/look.png" alt="Tela inicial do Busca Animal" width="400px">
+    <img src="m_project/menu.png" alt="Resultado da busca por leão" width="400px">
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
